@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "poker-table",
   "name": "Poker Table",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "table-pack",
   "entry": {
     "setup": "setup.json"
@@ -14,6 +14,8 @@
     "media/screenshot-1.webp",
     "media/screenshot-2.webp",
     "media/screenshot-3.webp",
+    "media/screenshot-4.webp",
+    "media/screenshot-5.webp",
     "models/poker-table.collider.glb",
     "models/poker-table.web.glb",
     "models/poker-table.web.meta.json",
@@ -32,7 +34,8 @@
   "tags": [
     "poker",
     "casino",
-    "gambling"
+    "gambling",
+    "felt"
   ],
   "credits": [
     {
@@ -63,20 +66,6 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-09-29T16:12:07.690Z",
-        "signedName": "Matt Larson"
-      }
-    },
-    {
-      "id": "credit-8873cdc6-9c0e-487c-9d1e-c106d32b36ed",
-      "paths": [
-        "media/cover-thumb.webp",
-        "media/cover.webp"
-      ],
-      "origin": "own-work",
-      "recordedAt": "2026-09-29T16:19:11.058Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-29T16:19:11.058Z",
         "signedName": "Matt Larson"
       }
     },
@@ -117,14 +106,66 @@
         "acceptedAt": "2026-09-29T16:23:09.916Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-bf9e5898-51f6-49dc-89bb-cbe0eb23c654",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T18:12:15.109Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T18:12:15.109Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-d2920ac8-e97d-4c26-946c-31915a313417",
+      "paths": [
+        "media/screenshot-4.webp",
+        "media/screenshot-5.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T18:12:33.100Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T18:12:33.100Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "slug": "poker-table",
-  "summary": "Poker Table",
-  "description": "Poker Table",
+  "summary": "A 10-seat casino poker table with a carved mahogany rail",
+  "description": "## Poker Table\n\nA full-size, 10-seat casino poker table built for DiceyTable. Its racetrack-shaped top measures\n8 × 4 feet and is framed by a faceted mahogany rail with polished brass trim. The rail is set with\ngreen gems and cup holders. Underneath, a carved scroll band wraps the table's edge, and two\nturned pedestals stand on a brass footrest.\n\nThe green felt carries a subtle pattern of card suits and a dark track that marks out every seat,\nnumbered 1 to 10 with a crown at seat 4. Each number reads upright from its own chair. At the\ncentre are five outlined spots for the community cards and a pair of suit emblems in red and white.\n\nOn the dealer's side the rail opens up to a recessed ten-channel chip tray, leaving room to deal\nand handle the pot. The table is solid under your pieces: cards and chips rest on the felt and stop\nat the rail, so it's ready for Texas Hold'em, Omaha or any home-game favourite.",
   "category": "table-poker",
   "coverImage": "media/cover.webp",
   "screenshots": [
+    {
+      "path": "media/screenshot-5.webp",
+      "crop": {
+        "x": 0.0512993704643649,
+        "y": 0,
+        "w": 0.875392670157068,
+        "h": 1
+      },
+      "title": "Poker Table in Casino",
+      "alt": "Poker Table in Casino",
+      "kind": "gameplay"
+    },
+    {
+      "path": "media/screenshot-4.webp",
+      "crop": {
+        "x": 0.054967524586613865,
+        "y": 0,
+        "w": 0.875392670157068,
+        "h": 1
+      },
+      "title": "Poker Table in Casino",
+      "alt": "Poker Table in Casino",
+      "kind": "gameplay"
+    },
     {
       "path": "media/screenshot-0.webp",
       "crop": {
@@ -132,7 +173,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Poker Table",
+      "alt": "Poker Table",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-1.webp",
@@ -141,7 +185,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Poker Table",
+      "alt": "Poker Table",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-2.webp",
@@ -150,7 +197,10 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Poker Table",
+      "alt": "Poker Table",
+      "kind": "component"
     },
     {
       "path": "media/screenshot-3.webp",
@@ -159,7 +209,14 @@
         "y": 0,
         "w": 1,
         "h": 1
-      }
+      },
+      "title": "Poker Table",
+      "alt": "Poker Table",
+      "kind": "component"
     }
-  ]
+  ],
+  "players": {
+    "min": 1,
+    "max": 10
+  }
 }

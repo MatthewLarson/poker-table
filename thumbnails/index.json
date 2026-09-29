@@ -39,13 +39,13 @@
       "height": 256
     },
     "media/cover-thumb.webp": {
-      "inputHash": "73926d7f4f41f742",
+      "inputHash": "f3f4c2fe1e78f9ce",
       "file": "thumbnails/media/cover-thumb.webp.webp",
       "width": 256,
       "height": 256
     },
     "media/cover.webp": {
-      "inputHash": "0e9a1cea52568b62",
+      "inputHash": "998362ee5ac02947",
       "file": "thumbnails/media/cover.webp.webp",
       "width": 256,
       "height": 256
@@ -71,6 +71,18 @@
     "media/screenshot-3.webp": {
       "inputHash": "0453408f370d022f",
       "file": "thumbnails/media/screenshot-3.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-4.webp": {
+      "inputHash": "dfd47c101a541a89",
+      "file": "thumbnails/media/screenshot-4.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-5.webp": {
+      "inputHash": "a3f562f97f3eb07c",
+      "file": "thumbnails/media/screenshot-5.webp.webp",
       "width": 256,
       "height": 144
     },
