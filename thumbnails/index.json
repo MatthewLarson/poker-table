@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-141146fc-0150-4e3f-b297-9d06a67d9e42": {
+      "inputHash": "8e16f3ee29d6ebc0",
+      "file": "thumbnails/@materials/mat-141146fc-0150-4e3f-b297-9d06a67d9e42.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-52ef7187-3edd-4cdb-8c5a-21521ab782ce": {
+      "inputHash": "a09bdc8403d67d2f",
+      "file": "thumbnails/@materials/mat-52ef7187-3edd-4cdb-8c5a-21521ab782ce.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-6de2ee8c-4e6e-45c7-bb21-fed338502490": {
+      "inputHash": "cee6ca91ad27c082",
+      "file": "thumbnails/@materials/mat-6de2ee8c-4e6e-45c7-bb21-fed338502490.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-77e461d1-bc34-426b-92dc-4aba82657029": {
+      "inputHash": "f01ebae6202247fc",
+      "file": "thumbnails/@materials/mat-77e461d1-bc34-426b-92dc-4aba82657029.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-90078569-27e1-46ba-bb9d-ebb360020595": {
+      "inputHash": "2628d6a290aefd13",
+      "file": "thumbnails/@materials/mat-90078569-27e1-46ba-bb9d-ebb360020595.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-b401de7e-bb83-416e-9eca-5930664ca1ff": {
+      "inputHash": "a05fd73b59eaef68",
+      "file": "thumbnails/@materials/mat-b401de7e-bb83-416e-9eca-5930664ca1ff.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "73926d7f4f41f742",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "0e9a1cea52568b62",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "12d3334a6b694691",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "20c922c1e8cdc06d",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-2.webp": {
+      "inputHash": "0d7c3bccfa65f056",
+      "file": "thumbnails/media/screenshot-2.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-3.webp": {
+      "inputHash": "0453408f370d022f",
+      "file": "thumbnails/media/screenshot-3.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "models/poker-table.web.glb": {
+      "inputHash": "de6e02061065997a",
+      "file": "thumbnails/models/poker-table.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/poker-table.web.glb": {
+      "inputHash": "409c5570ccb8fad3",
+      "file": "thumbnails/originals/poker-table.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/poker-table-web/apron-basecolor-01a7a08c.webp": {
+      "inputHash": "5b2076acf26a0311",
+      "file": "thumbnails/textures/poker-table-web/apron-basecolor-01a7a08c.webp.webp",
+      "width": 256,
+      "height": 32
+    },
+    "textures/poker-table-web/apron-normal-0801b58a.webp": {
+      "inputHash": "03eda102e186d561",
+      "file": "thumbnails/textures/poker-table-web/apron-normal-0801b58a.webp.webp",
+      "width": 256,
+      "height": 32
+    },
+    "textures/poker-table-web/apron-roughness-4335456d.webp": {
+      "inputHash": "fabba4bca084fed6",
+      "file": "thumbnails/textures/poker-table-web/apron-roughness-4335456d.webp.webp",
+      "width": 256,
+      "height": 32
+    },
+    "textures/poker-table-web/felt-basecolor-ce677edb.webp": {
+      "inputHash": "8a3c6252a63ba24b",
+      "file": "thumbnails/textures/poker-table-web/felt-basecolor-ce677edb.webp.webp",
+      "width": 256,
+      "height": 128
+    },
+    "textures/poker-table-web/wood-basecolor-4587cac4.webp": {
+      "inputHash": "5f09133c4d23c71a",
+      "file": "thumbnails/textures/poker-table-web/wood-basecolor-4587cac4.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/poker-table-web/wood-normal-d4a4ca41.webp": {
+      "inputHash": "ade283216ed09eae",
+      "file": "thumbnails/textures/poker-table-web/wood-normal-d4a4ca41.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/poker-table-web/wood-roughness-b769800b.webp": {
+      "inputHash": "b5ef0274da098714",
+      "file": "thumbnails/textures/poker-table-web/wood-roughness-b769800b.webp.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}
