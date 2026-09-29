@@ -1,0 +1,21 @@
+{
+  "materialSlots": {
+    "PT_Felt": "mat-90078569-27e1-46ba-bb9d-ebb360020595",
+    "PT_Wood": "mat-141146fc-0150-4e3f-b297-9d06a67d9e42",
+    "PT_ApronCarved": "mat-b401de7e-bb83-416e-9eca-5930664ca1ff",
+    "PT_Brass": "mat-77e461d1-bc34-426b-92dc-4aba82657029",
+    "PT_Steel": "mat-52ef7187-3edd-4cdb-8c5a-21521ab782ce",
+    "PT_Gem": "mat-6de2ee8c-4e6e-45c7-bb21-fed338502490"
+  },
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "shape": "mesh",
+        "source": "baked",
+        "bakedPath": "models/poker-table.collider.glb"
+      }
+    ]
+  }
+}

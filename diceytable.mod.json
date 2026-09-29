@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.0",
+  "id": "poker-table",
+  "name": "Poker Table",
+  "version": "0.1.0",
+  "type": "table-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "media/screenshot-3.webp",
+    "models/poker-table.collider.glb",
+    "models/poker-table.web.glb",
+    "models/poker-table.web.meta.json",
+    "textures/poker-table-web/apron-basecolor-01a7a08c.webp",
+    "textures/poker-table-web/apron-normal-0801b58a.webp",
+    "textures/poker-table-web/apron-roughness-4335456d.webp",
+    "textures/poker-table-web/felt-basecolor-ce677edb.webp",
+    "textures/poker-table-web/wood-basecolor-4587cac4.webp",
+    "textures/poker-table-web/wood-normal-d4a4ca41.webp",
+    "textures/poker-table-web/wood-roughness-b769800b.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "poker",
+    "casino",
+    "gambling"
+  ],
+  "credits": [
+    {
+      "id": "credit-4f2e57d0-d5e6-4670-97f1-63b8c4c21643",
+      "paths": [
+        "models/poker-table.web.glb",
+        "models/poker-table.web.meta.json",
+        "textures/poker-table-web/apron-basecolor-01a7a08c.webp",
+        "textures/poker-table-web/apron-normal-0801b58a.webp",
+        "textures/poker-table-web/apron-roughness-4335456d.webp",
+        "textures/poker-table-web/felt-basecolor-ce677edb.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T16:11:58.662Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:11:58.662Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-feb7587a-ec48-4354-885e-899f904e478b",
+      "paths": [
+        "models/poker-table.collider.glb"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T16:12:07.690Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:12:07.690Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-8873cdc6-9c0e-487c-9d1e-c106d32b36ed",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T16:19:11.058Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:19:11.058Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-575b2470-7729-4b88-9c0e-7b6fa1da8b91",
+      "paths": [
+        "media/screenshot-0.webp",
+        "media/screenshot-1.webp",
+        "media/screenshot-2.webp",
+        "media/screenshot-3.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T16:19:21.940Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:19:21.940Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-3735f4e4-8af8-401b-8c27-1541a659ed0e",
+      "paths": [
+        "textures/poker-table-web/wood-basecolor-4587cac4.webp",
+        "textures/poker-table-web/wood-normal-d4a4ca41.webp",
+        "textures/poker-table-web/wood-roughness-b769800b.webp"
+      ],
+      "origin": "third-party",
+      "title": "Dark Wood",
+      "creator": "Dimitrios Savva",
+      "creatorUrl": "https://polyhaven.com/all?a=Dario%20Barresi",
+      "sourceUrl": "https://polyhaven.com/a/dark_wood",
+      "licenseName": "CC0 1.0 (Public Domain)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "notes": "Dimitrios Savva (photography), Dario Barresi (baking) and Rico Cilliers (tiling)",
+      "recordedAt": "2026-09-29T16:23:09.916Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T16:23:09.916Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "poker-table",
+  "summary": "Poker Table",
+  "description": "Poker Table",
+  "category": "table-poker",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-3.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  ]
+}
