@@ -8,18 +8,11 @@
 
 ## Poker Table
 
-A full-size, 10-seat casino poker table built for DiceyTable. Its racetrack-shaped top measures
-8 × 4 feet and is framed by a faceted mahogany rail with polished brass trim. The rail is set with
-green gems and cup holders. Underneath, a carved scroll band wraps the table's edge, and two
-turned pedestals stand on a brass footrest.
+A full-size, 10-seat casino poker table built for DiceyTable. Its racetrack-shaped top measures 8 × 4 feet and is framed by a faceted mahogany rail with polished brass trim. The rail is set with green gems and cup holders. Underneath, a carved scroll band wraps the table's edge, and two turned pedestals stand on a brass footrest.
 
-The green felt carries a subtle pattern of card suits and a dark track that marks out every seat,
-numbered 1 to 10 with a crown at seat 4. Each number reads upright from its own chair. At the
-centre are five outlined spots for the community cards and a pair of suit emblems in red and white.
+The green felt carries a subtle pattern of card suits and a dark track that marks out every seat, numbered 1 to 10 with a crown at seat 4. Each number reads upright from its own chair. At the centre are five outlined spots for the community cards and a pair of suit emblems in red and white.
 
-On the dealer's side the rail opens up to a recessed ten-channel chip tray, leaving room to deal
-and handle the pot. The table is solid under your pieces: cards and chips rest on the felt and stop
-at the rail, so it's ready for Texas Hold'em, Omaha or any home-game favourite.
+On the dealer's side the rail opens up to a recessed ten-channel chip tray, leaving room to deal and handle the pot. The table is solid under your pieces: cards and chips rest on the felt and stop at the rail, so it's ready for Texas Hold'em, Omaha or any home-game favourite.
 
 ---
 
